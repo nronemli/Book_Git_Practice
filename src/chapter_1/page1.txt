@@ -1,8 +1,13 @@
 
 Hello, this is the first page of the chapter.
-VCS: VERSION CONTROL SYSTEM
-Day 1 of Git.
 
+VCS: VERSION CONTROL SYSTEM
+
+Day 1 of Git!
+
+git: github> open in github
+git: github> share project in github
+commit> tick file> commit
 20/07/2022
 Aynur Onemli
 
