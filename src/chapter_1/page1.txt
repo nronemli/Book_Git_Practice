@@ -8,6 +8,6 @@ Day 1 of Git!
 git: github> open in github
 git: github> share project in github
 commit> tick file> commit
-20/07/2022
+commit: CHANGES to push to local rep
 Aynur Onemli
 
