@@ -1,5 +1,7 @@
 hello
-git: version control system
-gitHub: platform to host remote repositories
 
+git: version control system
+
+gitHub: platform to host remote repositories
+2
 
